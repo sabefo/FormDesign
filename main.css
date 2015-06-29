@@ -1,0 +1,65 @@
+.container {
+  margin: 0 auto;  
+  width: 720px;
+}
+
+.footer{
+	margin-top:100px; 
+}
+
+li {
+	text-decoration: underline;
+	color: blue;
+}
+
+#registration {
+  width: 250px;
+  margin: 8px auto;
+  padding: 20px;
+  /*border: solid gray 10px;*/
+  background-color: #3D3D5C;
+  border-radius: 5px;
+	background: #935d5d; /* Old browsers */
+	background: -moz-linear-gradient(top, #935d5d 6%, #935d5d 14%, #686868 25%, #934545 46%, #4f4f4f 62%, #935d5d 72%, #383838 85%, #1b1b1b 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(6%,#935d5d), color-stop(14%,#935d5d), color-stop(25%,#686868), color-stop(46%,#934545), color-stop(62%,#4f4f4f), color-stop(72%,#935d5d), color-stop(85%,#383838), color-stop(100%,#1b1b1b)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #935d5d 6%,#935d5d 14%,#686868 25%,#934545 46%,#4f4f4f 62%,#935d5d 72%,#383838 85%,#1b1b1b 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #935d5d 6%,#935d5d 14%,#686868 25%,#934545 46%,#4f4f4f 62%,#935d5d 72%,#383838 85%,#1b1b1b 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #935d5d 6%,#935d5d 14%,#686868 25%,#934545 46%,#4f4f4f 62%,#935d5d 72%,#383838 85%,#1b1b1b 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #935d5d 6%,#935d5d 14%,#686868 25%,#934545 46%,#4f4f4f 62%,#935d5d 72%,#383838 85%,#1b1b1b 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#935d5d', endColorstr='#1b1b1b',GradientType=0 ); /* IE6-9 */
+  
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+#registration_btn {
+	background-color: #1D1D1D;
+	color: white;
+	/*box-shadow: glow;*/
+	/*padding: 4px;*/
+	height: 26px;
+}
+
+#registration_email {
+	height: 20px;
+	width: 200px;
+}
+
+#registration_password {
+	height: 20px;
+	width: 119px;
+	margin-top: 10px;
+	margin-right: 5px;
+}
+
+
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#935d5d+6,935d5d+14,686868+25,934545+46,4f4f4f+62,935d5d+72,383838+85,1b1b1b+100 */
+
+
+
+
+
+
+
+
